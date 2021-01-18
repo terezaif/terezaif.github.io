@@ -3,17 +3,17 @@
 
 
   <url>
-    <loc>./about.html</loc>
+    <loc>/about.html</loc>
     <priority>1.0</priority>
   </url>
 
   <url>
-    <loc>./speaker-info.html</loc>
+    <loc>/speaker-info.html</loc>
     <priority>1.0</priority>
   </url>
 
   <url>
-    <loc>./talks.html</loc>
+    <loc>/talks.html</loc>
     <priority>1.0</priority>
   </url>
 
